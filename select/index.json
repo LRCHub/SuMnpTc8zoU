@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "말리지 마",
+  "base_artist": "i-dle (아이들)",
+  "createdAt": "2026-04-03T22:31:33.564447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "말리지 마 (Never Stop Me)",
+      "artist": "(여자)아이들",
+      "has_synced": true,
+      "path": "select/01_말리지_마_(Never_Stop_Me)_(여자)아이들.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Stop Me (말리지 마)",
+      "artist": "i-dle",
+      "has_synced": true,
+      "path": "select/02_Never_Stop_Me_(말리지_마)_i-dle.lrc"
+    }
+  ]
+}
